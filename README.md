@@ -24,6 +24,7 @@ I am currently strengthening my foundations through hands-on projects and consis
 ### Currently learning
 
 - Modern PHP fundamentals and best practices
+- Laravel and its core concepts
 - Object-oriented programming
 - Dependency management with Composer
 - Data persistence with SQLite
@@ -47,9 +48,24 @@ Through this project, I am focusing on:
 <!-- Replace the line below with the repository link when it is public. -->
 **Repository:** coming soon
 
+## Future project
+
+### 🩺 Medical Certificate Management System — planned
+
+A management system designed for an Italian amateur sports association (_Associazione Sportiva Dilettantistica_, or A.S.D.) to help keep track of members' medical certificates and their expiration dates.
+
+The project is planned as an opportunity to practise:
+
+- building a structured backend application with Laravel;
+- managing members and medical certificate records;
+- tracking certificate status and expiration dates;
+- designing clear data validation and business rules;
+- handling personal and health-related information responsibly.
+
 ## Current goals
 
 - Complete and document the first solid version of Ticket Service
+- Plan and develop the Medical Certificate Management System
 - Build a small portfolio of focused backend projects
 - Improve code quality through testing and refactoring
 - Become confident with collaborative Git workflows
