@@ -59,8 +59,8 @@ The project is planned as an opportunity to practise:
 
 ## Let's connect
 
-- LinkedIn: [add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- Email: [add your email address](mailto:YOUR_EMAIL_ADDRESS)
+- LinkedIn: [Francesco Maietti](https://www.linkedin.com/in/francesco-maietti-82b7b3335/)
+- Email: [info@francescomaietti.com](mailto:info@francescomaietti.com)
 
 ---
 
