@@ -31,26 +31,9 @@ I am currently strengthening my foundations through hands-on projects and consis
 - Git and GitHub workflows
 - Project structure, testing, and maintainable backend code
 
-## Featured project
+## Planned project
 
-### 🎫 Ticket Service — work in progress
-
-A portfolio project for managing support tickets, designed to turn the concepts I am studying into a practical backend application.
-
-Through this project, I am focusing on:
-
-- organizing application logic clearly;
-- working with persistent data;
-- managing dependencies;
-- using Git with a consistent workflow;
-- documenting technical choices and project progress.
-
-<!-- Replace the line below with the repository link when it is public. -->
-**Repository:** coming soon
-
-## Future project
-
-### 🩺 Medical Certificate Management System — planned
+### 🩺 Medical Certificate Management System
 
 A management system designed for an Italian amateur sports association (_Associazione Sportiva Dilettantistica_, or A.S.D.) to help keep track of members' medical certificates and their expiration dates.
 
@@ -64,7 +47,6 @@ The project is planned as an opportunity to practise:
 
 ## Current goals
 
-- Complete and document the first solid version of Ticket Service
 - Plan and develop the Medical Certificate Management System
 - Build a small portfolio of focused backend projects
 - Improve code quality through testing and refactoring
